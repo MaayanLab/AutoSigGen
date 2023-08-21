@@ -1,0 +1,5 @@
+pandas
+h5py
+git+https://github.com/Maayanlab/maayanlab-bioinformatics.git
+pyarrow
+rpy2
